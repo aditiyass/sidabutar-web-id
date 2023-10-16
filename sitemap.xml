@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://aditiyass.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://sidabutar.web.id/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://aditiyass.github.io/</loc>
+<loc>https://sidabutar.web.id/</loc>
 </url>
 <url>
-<loc>https://aditiyass.github.io/holla-world.html</loc>
+<loc>https://sidabutar.web.id/holla-world.html</loc>
 <lastmod>2023-10-16T22:53:11+07:00</lastmod>
 <image:image>
-<image:loc>https://aditiyass.github.io/media/posts/3/Screenshot_20231016_224934.png</image:loc>
+<image:loc>https://sidabutar.web.id/media/posts/3/Screenshot_20231016_224934.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://aditiyass.github.io/media/posts/3/IMG-20191108-WA0037.jpg</image:loc>
+<image:loc>https://sidabutar.web.id/media/posts/3/IMG-20191108-WA0037.jpg</image:loc>
 <image:title><![CDATA[Somewhere in prambanan]]></image:title>
 </image:image>
 </url>

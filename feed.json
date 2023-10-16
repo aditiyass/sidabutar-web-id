@@ -2,20 +2,20 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Aditiya Sidabutar",
     "description": "",
-    "home_page_url": "https://aditiyass.github.io",
-    "feed_url": "https://aditiyass.github.io/feed.json",
+    "home_page_url": "https://sidabutar.web.id",
+    "feed_url": "https://sidabutar.web.id/feed.json",
     "user_comment": "",
     "author": {
         "name": "Aditiya Sidabutar"
     },
     "items": [
         {
-            "id": "https://aditiyass.github.io/holla-world.html",
-            "url": "https://aditiyass.github.io/holla-world.html",
+            "id": "https://sidabutar.web.id/holla-world.html",
+            "url": "https://sidabutar.web.id/holla-world.html",
             "title": "Holla World!",
             "summary": "Hello, this is my first published page. I create this using publii. you can learn more about publii by go to getpublii.com. it's easy to use, and have many options for developer. Anyway, here is a photo from my trip to prambanan site a few&hellip;",
-            "content_html": "<p>Hello, this is my first published page.<br>I create this using publii. you can learn more about publii by go to <a href=\"https://getpublii.com/\" target=\"_blank\" rel=\"noopener noreferrer\">getpublii.com</a>.</p>\n<p>it's easy to use, and have many options for developer.</p>\n<p>Anyway, here is a photo from my trip to prambanan site a few years ago.</p>\n<figure ><figure class=\"post__image post__image--full\"><img loading=\"lazy\"  src=\"https://aditiyass.github.io/media/posts/3/IMG-20191108-WA0037.jpg\" alt=\"Somewhere in prambanan\" width=\"1040\" height=\"585\" sizes=\"100vw\" srcset=\"https://aditiyass.github.io/media/posts/3/responsive/IMG-20191108-WA0037-xs.jpg 300w ,https://aditiyass.github.io/media/posts/3/responsive/IMG-20191108-WA0037-sm.jpg 480w ,https://aditiyass.github.io/media/posts/3/responsive/IMG-20191108-WA0037-md.jpg 768w ,https://aditiyass.github.io/media/posts/3/responsive/IMG-20191108-WA0037-lg.jpg 1024w ,https://aditiyass.github.io/media/posts/3/responsive/IMG-20191108-WA0037-xl.jpg 1360w ,https://aditiyass.github.io/media/posts/3/responsive/IMG-20191108-WA0037-2xl.jpg 1600w\"></figure>\n<figcaption >Somewhere at prambanan site</figcaption>\n</figure>\n<p>Nice to meet you, and enjoy!</p>",
-            "image": "https://aditiyass.github.io/media/posts/3/Screenshot_20231016_224934.png",
+            "content_html": "<p>Hello, this is my first published page.<br>I create this using publii. you can learn more about publii by go to <a href=\"https://getpublii.com/\" target=\"_blank\" rel=\"noopener noreferrer\">getpublii.com</a>.</p>\n<p>it's easy to use, and have many options for developer.</p>\n<p>Anyway, here is a photo from my trip to prambanan site a few years ago.</p>\n<figure ><figure class=\"post__image post__image--full\"><img loading=\"lazy\"  src=\"https://sidabutar.web.id/media/posts/3/IMG-20191108-WA0037.jpg\" alt=\"Somewhere in prambanan\" width=\"1040\" height=\"585\" sizes=\"100vw\" srcset=\"https://sidabutar.web.id/media/posts/3/responsive/IMG-20191108-WA0037-xs.jpg 300w ,https://sidabutar.web.id/media/posts/3/responsive/IMG-20191108-WA0037-sm.jpg 480w ,https://sidabutar.web.id/media/posts/3/responsive/IMG-20191108-WA0037-md.jpg 768w ,https://sidabutar.web.id/media/posts/3/responsive/IMG-20191108-WA0037-lg.jpg 1024w ,https://sidabutar.web.id/media/posts/3/responsive/IMG-20191108-WA0037-xl.jpg 1360w ,https://sidabutar.web.id/media/posts/3/responsive/IMG-20191108-WA0037-2xl.jpg 1600w\"></figure>\n<figcaption >Somewhere at prambanan site</figcaption>\n</figure>\n<p>Nice to meet you, and enjoy!</p>",
+            "image": "https://sidabutar.web.id/media/posts/3/Screenshot_20231016_224934.png",
             "author": {
                 "name": "Aditiya Sidabutar"
             },

@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Aditiya Sidabutar</title>
-    <link href="https://aditiyass.github.io/feed.xml" rel="self" />
-    <link href="https://aditiyass.github.io" />
+    <link href="https://sidabutar.web.id/feed.xml" rel="self" />
+    <link href="https://sidabutar.web.id" />
     <updated>2023-10-16T22:53:11+07:00</updated>
     <author>
         <name>Aditiya Sidabutar</name>
     </author>
-    <id>https://aditiyass.github.io</id>
+    <id>https://sidabutar.web.id</id>
 
     <entry>
         <title>Holla World!</title>
         <author>
             <name>Aditiya Sidabutar</name>
         </author>
-        <link href="https://aditiyass.github.io/holla-world.html"/>
-        <id>https://aditiyass.github.io/holla-world.html</id>
-        <media:content url="https://aditiyass.github.io/media/posts/3/Screenshot_20231016_224934.png" medium="image" />
+        <link href="https://sidabutar.web.id/holla-world.html"/>
+        <id>https://sidabutar.web.id/holla-world.html</id>
+        <media:content url="https://sidabutar.web.id/media/posts/3/Screenshot_20231016_224934.png" medium="image" />
             <category term="Travel"/>
             <category term="Technology"/>
 
         <updated>2023-10-16T22:53:11+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://aditiyass.github.io/media/posts/3/Screenshot_20231016_224934.png" alt="" />
+                        <img src="https://sidabutar.web.id/media/posts/3/Screenshot_20231016_224934.png" alt="" />
                     Hello, this is my first published page. I create this using publii. you can learn more about publii by go to getpublii.com. it's easy to use, and have many options for developer. Anyway, here is a photo from my trip to prambanan site a few&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://aditiyass.github.io/media/posts/3/Screenshot_20231016_224934.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://sidabutar.web.id/media/posts/3/Screenshot_20231016_224934.png" class="type:primaryImage" alt="" /></p>
                 <p>Hello, this is my first published page.<br>I create this using publii. you can learn more about publii by go to <a href="https://getpublii.com/" target="_blank" rel="noopener noreferrer">getpublii.com</a>.</p>
 <p>it's easy to use, and have many options for developer.</p>
 <p>Anyway, here is a photo from my trip to prambanan site a few years ago.</p>
-<figure ><figure class="post__image post__image--full"><img loading="lazy"  src="https://aditiyass.github.io/media/posts/3/IMG-20191108-WA0037.jpg" alt="Somewhere in prambanan" width="1040" height="585" sizes="100vw" srcset="https://aditiyass.github.io/media/posts/3/responsive/IMG-20191108-WA0037-xs.jpg 300w ,https://aditiyass.github.io/media/posts/3/responsive/IMG-20191108-WA0037-sm.jpg 480w ,https://aditiyass.github.io/media/posts/3/responsive/IMG-20191108-WA0037-md.jpg 768w ,https://aditiyass.github.io/media/posts/3/responsive/IMG-20191108-WA0037-lg.jpg 1024w ,https://aditiyass.github.io/media/posts/3/responsive/IMG-20191108-WA0037-xl.jpg 1360w ,https://aditiyass.github.io/media/posts/3/responsive/IMG-20191108-WA0037-2xl.jpg 1600w"></figure>
+<figure ><figure class="post__image post__image--full"><img loading="lazy"  src="https://sidabutar.web.id/media/posts/3/IMG-20191108-WA0037.jpg" alt="Somewhere in prambanan" width="1040" height="585" sizes="100vw" srcset="https://sidabutar.web.id/media/posts/3/responsive/IMG-20191108-WA0037-xs.jpg 300w ,https://sidabutar.web.id/media/posts/3/responsive/IMG-20191108-WA0037-sm.jpg 480w ,https://sidabutar.web.id/media/posts/3/responsive/IMG-20191108-WA0037-md.jpg 768w ,https://sidabutar.web.id/media/posts/3/responsive/IMG-20191108-WA0037-lg.jpg 1024w ,https://sidabutar.web.id/media/posts/3/responsive/IMG-20191108-WA0037-xl.jpg 1360w ,https://sidabutar.web.id/media/posts/3/responsive/IMG-20191108-WA0037-2xl.jpg 1600w"></figure>
 <figcaption >Somewhere at prambanan site</figcaption>
 </figure>
 <p>Nice to meet you, and enjoy!</p>
