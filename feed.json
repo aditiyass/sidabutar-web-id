@@ -10,6 +10,23 @@
     },
     "items": [
         {
+            "id": "https://sidabutar.web.id/portofolio.html",
+            "url": "https://sidabutar.web.id/portofolio.html",
+            "title": "Portofolio",
+            "summary": "I plan to create separate post and explain projects that I involved in. So until then, here is a Google Drive Link with pdf of my portofolios.",
+            "content_html": "<p>I plan to create separate post and explain projects that I involved in. So until then, here is a <a href=\"https://drive.google.com/drive/folders/1WoAnvisOdsvJVwhlgPaIrSTOsYpSecS_?usp=sharing\" target=\"_blank\" rel=\"noopener noreferrer\">Google Drive Link</a> with pdf of my portofolios.</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://sidabutar.web.id/media/posts/8/gallery/siabang1.png\" data-size=\"1243x932\"><img loading=\"lazy\" src=\"https://sidabutar.web.id/media/posts/8/gallery/siabang1-thumbnail.png\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sidabutar.web.id/media/posts/8/gallery/siabang2.png\" data-size=\"1920x937\"><img loading=\"lazy\" src=\"https://sidabutar.web.id/media/posts/8/gallery/siabang2-thumbnail.png\" alt=\"\" width=\"720\" height=\"351\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sidabutar.web.id/media/posts/8/gallery/Screenshot-2023-10-02-at-22-21-09-Unit-Pengendali-Gratifikasi-Beranda.png\" data-size=\"1920x937\"><img loading=\"lazy\" src=\"https://sidabutar.web.id/media/posts/8/gallery/Screenshot-2023-10-02-at-22-21-09-Unit-Pengendali-Gratifikasi-Beranda-thumbnail.png\" alt=\"\" width=\"720\" height=\"351\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sidabutar.web.id/media/posts/8/gallery/Screenshot-2023-10-02-at-22-20-32-Unit-Pengendali-Gratifikasi-Beranda.png\" data-size=\"1280x755\"><img loading=\"lazy\" src=\"https://sidabutar.web.id/media/posts/8/gallery/Screenshot-2023-10-02-at-22-20-32-Unit-Pengendali-Gratifikasi-Beranda-thumbnail.png\" alt=\"\" width=\"720\" height=\"425\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sidabutar.web.id/media/posts/8/gallery/Screenshot-2023-10-02-at-21-37-53-FMS-AAIIBS-Home.png\" data-size=\"1920x937\"><img loading=\"lazy\" src=\"https://sidabutar.web.id/media/posts/8/gallery/Screenshot-2023-10-02-at-21-37-53-FMS-AAIIBS-Home-thumbnail.png\" alt=\"\" width=\"720\" height=\"351\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sidabutar.web.id/media/posts/8/gallery/Screenshot-2023-10-02-at-21-35-17-FMS-AAIIBS-Beranda.png\" data-size=\"1280x579\"><img loading=\"lazy\" src=\"https://sidabutar.web.id/media/posts/8/gallery/Screenshot-2023-10-02-at-21-35-17-FMS-AAIIBS-Beranda-thumbnail.png\" alt=\"\" width=\"720\" height=\"326\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sidabutar.web.id/media/posts/8/gallery/Screenshot-2023-10-02-at-21-34-40-Informasi-E-Procurement-Beranda.png\" data-size=\"1920x937\"><img loading=\"lazy\" src=\"https://sidabutar.web.id/media/posts/8/gallery/Screenshot-2023-10-02-at-21-34-40-Informasi-E-Procurement-Beranda-thumbnail.png\" alt=\"\" width=\"720\" height=\"351\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sidabutar.web.id/media/posts/8/gallery/witchcraft1.png\" data-size=\"349x664\"><img loading=\"lazy\" src=\"https://sidabutar.web.id/media/posts/8/gallery/witchcraft1-thumbnail.png\" alt=\"\" width=\"349\" height=\"664\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sidabutar.web.id/media/posts/8/gallery/witchcraft2.png\" data-size=\"720x1280\"><img loading=\"lazy\" src=\"https://sidabutar.web.id/media/posts/8/gallery/witchcraft2-thumbnail.png\" alt=\"\" width=\"720\" height=\"1280\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sidabutar.web.id/media/posts/8/gallery/witchcraftschedule.png\" data-size=\"1908x1108\"><img loading=\"lazy\" src=\"https://sidabutar.web.id/media/posts/8/gallery/witchcraftschedule-thumbnail.png\" alt=\"\" width=\"720\" height=\"418\"></a></figure>\n</div></div>",
+            "image": "https://sidabutar.web.id/media/posts/8/witchcraft1.png",
+            "author": {
+                "name": "Aditiya Sidabutar"
+            },
+            "tags": [
+                   "Technology",
+                   "Personal"
+            ],
+            "date_published": "2023-10-17T22:26:22+07:00",
+            "date_modified": "2023-10-17T22:26:34+07:00"
+        },
+        {
             "id": "https://sidabutar.web.id/gallery.html",
             "url": "https://sidabutar.web.id/gallery.html",
             "title": "Gallery",
@@ -56,7 +73,7 @@
                    "Personal"
             ],
             "date_published": "2023-10-17T08:43:03+07:00",
-            "date_modified": "2023-10-17T13:36:32+07:00"
+            "date_modified": "2023-10-17T22:28:39+07:00"
         },
         {
             "id": "https://sidabutar.web.id/holla-world.html",
