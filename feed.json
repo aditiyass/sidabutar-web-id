@@ -10,6 +10,36 @@
     },
     "items": [
         {
+            "id": "https://sidabutar.web.id/contact-me.html",
+            "url": "https://sidabutar.web.id/contact-me.html",
+            "title": "Contact Me",
+            "summary": "You can contact me from Linkedin, or see my Instagram for more.",
+            "content_html": "<p>You can contact me from <a href=\"https://www.linkedin.com/in/aditiya-dwi-putra-sidabutar-b6a318196/\" target=\"_blank\" rel=\"noopener noreferrer\">Linkedin</a>, or see my <a href=\"https://www.instagram.com/aditiya_ss/\" target=\"_blank\" rel=\"noopener noreferrer\">Instagram</a> for more.</p>",
+            "image": "https://sidabutar.web.id/media/posts/6/Screenshot_20231016_224934.png",
+            "author": {
+                "name": "Aditiya Sidabutar"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-17T08:59:26+07:00",
+            "date_modified": "2023-10-17T08:59:26+07:00"
+        },
+        {
+            "id": "https://sidabutar.web.id/credits.html",
+            "url": "https://sidabutar.web.id/credits.html",
+            "title": "Credits",
+            "summary": "This is the list of things i use for this website Favicon Star icon by Icons8",
+            "content_html": "<p>This is the list of things i use for this website</p>\n<hr>\n<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 20.1568%;\">Favicon</td>\n<td style=\"width: 79.9859%;\"> <a target=\"_blank\" href=\"https://icons8.com/icon/19295/star\" rel=\"noopener\">Star</a> icon by <a target=\"_blank\" href=\"https://icons8.com\" rel=\"noopener\">Icons8</a></td>\n</tr>\n</tbody>\n</table>",
+            "image": "https://sidabutar.web.id/media/posts/5/kredits.jpg",
+            "author": {
+                "name": "Aditiya Sidabutar"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-17T08:43:03+07:00",
+            "date_modified": "2023-10-17T08:46:35+07:00"
+        },
+        {
             "id": "https://sidabutar.web.id/holla-world.html",
             "url": "https://sidabutar.web.id/holla-world.html",
             "title": "Holla World!",

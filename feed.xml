@@ -3,12 +3,67 @@
     <title>Aditiya Sidabutar</title>
     <link href="https://sidabutar.web.id/feed.xml" rel="self" />
     <link href="https://sidabutar.web.id" />
-    <updated>2023-10-16T22:53:11+07:00</updated>
+    <updated>2023-10-17T08:59:26+07:00</updated>
     <author>
         <name>Aditiya Sidabutar</name>
     </author>
     <id>https://sidabutar.web.id</id>
 
+    <entry>
+        <title>Contact Me</title>
+        <author>
+            <name>Aditiya Sidabutar</name>
+        </author>
+        <link href="https://sidabutar.web.id/contact-me.html"/>
+        <id>https://sidabutar.web.id/contact-me.html</id>
+        <media:content url="https://sidabutar.web.id/media/posts/6/Screenshot_20231016_224934.png" medium="image" />
+
+        <updated>2023-10-17T08:59:26+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sidabutar.web.id/media/posts/6/Screenshot_20231016_224934.png" alt="An Image" />
+                    You can contact me from Linkedin, or see my Instagram for more.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://sidabutar.web.id/media/posts/6/Screenshot_20231016_224934.png" class="type:primaryImage" alt="An Image" /></p>
+                <p>You can contact me from <a href="https://www.linkedin.com/in/aditiya-dwi-putra-sidabutar-b6a318196/" target="_blank" rel="noopener noreferrer">Linkedin</a>, or see my <a href="https://www.instagram.com/aditiya_ss/" target="_blank" rel="noopener noreferrer">Instagram</a> for more.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Credits</title>
+        <author>
+            <name>Aditiya Sidabutar</name>
+        </author>
+        <link href="https://sidabutar.web.id/credits.html"/>
+        <id>https://sidabutar.web.id/credits.html</id>
+        <media:content url="https://sidabutar.web.id/media/posts/5/kredits.jpg" medium="image" />
+
+        <updated>2023-10-17T08:46:35+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sidabutar.web.id/media/posts/5/kredits.jpg" alt="" />
+                    This is the list of things i use for this website Favicon Star icon by Icons8
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://sidabutar.web.id/media/posts/5/kredits.jpg" class="type:primaryImage" alt="" /></p>
+                <p>This is the list of things i use for this website</p>
+<hr>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 20.1568%;">Favicon</td>
+<td style="width: 79.9859%;"> <a target="_blank" href="https://icons8.com/icon/19295/star" rel="noopener">Star</a> icon by <a target="_blank" href="https://icons8.com" rel="noopener">Icons8</a></td>
+</tr>
+</tbody>
+</table>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Holla World!</title>
         <author>
