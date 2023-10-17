@@ -10,6 +10,23 @@
     },
     "items": [
         {
+            "id": "https://sidabutar.web.id/gallery.html",
+            "url": "https://sidabutar.web.id/gallery.html",
+            "title": "Gallery",
+            "summary": "My collection of photos. Enjoy!",
+            "content_html": "<p>My collection of photos. Enjoy!</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://sidabutar.web.id/media/posts/7/gallery/IMG_20191029_153853_HDR.jpg\" data-size=\"3120x4160\"><img loading=\"lazy\" src=\"https://sidabutar.web.id/media/posts/7/gallery/IMG_20191029_153853_HDR-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"960\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sidabutar.web.id/media/posts/7/gallery/IMG_20191029_154116_HDR.jpg\" data-size=\"3120x4160\"><img loading=\"lazy\" src=\"https://sidabutar.web.id/media/posts/7/gallery/IMG_20191029_154116_HDR-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"960\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sidabutar.web.id/media/posts/7/gallery/IMG_20191029_161659_HDR.jpg\" data-size=\"4160x3120\"><img loading=\"lazy\" src=\"https://sidabutar.web.id/media/posts/7/gallery/IMG_20191029_161659_HDR-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n</div></div>",
+            "image": "https://sidabutar.web.id/media/posts/7/IMG_20191029_161659_HDR.jpg",
+            "author": {
+                "name": "Aditiya Sidabutar"
+            },
+            "tags": [
+                   "Travel",
+                   "Personal"
+            ],
+            "date_published": "2023-10-17T13:33:00+07:00",
+            "date_modified": "2023-10-17T13:36:16+07:00"
+        },
+        {
             "id": "https://sidabutar.web.id/contact-me.html",
             "url": "https://sidabutar.web.id/contact-me.html",
             "title": "Contact Me",
@@ -20,9 +37,10 @@
                 "name": "Aditiya Sidabutar"
             },
             "tags": [
+                   "Personal"
             ],
             "date_published": "2023-10-17T08:59:26+07:00",
-            "date_modified": "2023-10-17T08:59:26+07:00"
+            "date_modified": "2023-10-17T13:36:26+07:00"
         },
         {
             "id": "https://sidabutar.web.id/credits.html",
@@ -35,9 +53,10 @@
                 "name": "Aditiya Sidabutar"
             },
             "tags": [
+                   "Personal"
             ],
             "date_published": "2023-10-17T08:43:03+07:00",
-            "date_modified": "2023-10-17T08:46:35+07:00"
+            "date_modified": "2023-10-17T13:36:32+07:00"
         },
         {
             "id": "https://sidabutar.web.id/holla-world.html",

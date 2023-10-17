@@ -3,12 +3,42 @@
     <title>Aditiya Sidabutar</title>
     <link href="https://sidabutar.web.id/feed.xml" rel="self" />
     <link href="https://sidabutar.web.id" />
-    <updated>2023-10-17T08:59:26+07:00</updated>
+    <updated>2023-10-17T13:36:32+07:00</updated>
     <author>
         <name>Aditiya Sidabutar</name>
     </author>
     <id>https://sidabutar.web.id</id>
 
+    <entry>
+        <title>Gallery</title>
+        <author>
+            <name>Aditiya Sidabutar</name>
+        </author>
+        <link href="https://sidabutar.web.id/gallery.html"/>
+        <id>https://sidabutar.web.id/gallery.html</id>
+        <media:content url="https://sidabutar.web.id/media/posts/7/IMG_20191029_161659_HDR.jpg" medium="image" />
+            <category term="Travel"/>
+            <category term="Personal"/>
+
+        <updated>2023-10-17T13:36:16+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sidabutar.web.id/media/posts/7/IMG_20191029_161659_HDR.jpg" alt="" />
+                    My collection of photos. Enjoy!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://sidabutar.web.id/media/posts/7/IMG_20191029_161659_HDR.jpg" class="type:primaryImage" alt="" /></p>
+                <p>My collection of photos. Enjoy!</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://sidabutar.web.id/media/posts/7/gallery/IMG_20191029_153853_HDR.jpg" data-size="3120x4160"><img loading="lazy" src="https://sidabutar.web.id/media/posts/7/gallery/IMG_20191029_153853_HDR-thumbnail.jpg" alt="" width="720" height="960"></a></figure>
+<figure class="gallery__item"><a href="https://sidabutar.web.id/media/posts/7/gallery/IMG_20191029_154116_HDR.jpg" data-size="3120x4160"><img loading="lazy" src="https://sidabutar.web.id/media/posts/7/gallery/IMG_20191029_154116_HDR-thumbnail.jpg" alt="" width="720" height="960"></a></figure>
+<figure class="gallery__item"><a href="https://sidabutar.web.id/media/posts/7/gallery/IMG_20191029_161659_HDR.jpg" data-size="4160x3120"><img loading="lazy" src="https://sidabutar.web.id/media/posts/7/gallery/IMG_20191029_161659_HDR-thumbnail.jpg" alt="" width="720" height="540"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Contact Me</title>
         <author>
@@ -17,8 +47,9 @@
         <link href="https://sidabutar.web.id/contact-me.html"/>
         <id>https://sidabutar.web.id/contact-me.html</id>
         <media:content url="https://sidabutar.web.id/media/posts/6/Screenshot_20231016_224934.png" medium="image" />
+            <category term="Personal"/>
 
-        <updated>2023-10-17T08:59:26+07:00</updated>
+        <updated>2023-10-17T13:36:26+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sidabutar.web.id/media/posts/6/Screenshot_20231016_224934.png" alt="An Image" />
@@ -40,8 +71,9 @@
         <link href="https://sidabutar.web.id/credits.html"/>
         <id>https://sidabutar.web.id/credits.html</id>
         <media:content url="https://sidabutar.web.id/media/posts/5/kredits.jpg" medium="image" />
+            <category term="Personal"/>
 
-        <updated>2023-10-17T08:46:35+07:00</updated>
+        <updated>2023-10-17T13:36:32+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sidabutar.web.id/media/posts/5/kredits.jpg" alt="" />
